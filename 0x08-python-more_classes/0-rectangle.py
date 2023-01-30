@@ -1,3 +1,3 @@
 #!/usr/bin/pythoon
-class Rectangle():
+class Rectangle:
     pass
